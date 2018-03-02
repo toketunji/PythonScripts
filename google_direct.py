@@ -9,7 +9,7 @@ import subprocess
 #from urllib2 import urlopen
 
 endpoint = 'https://maps.googleapis.com/maps/api/distancematrix/json?'
-api_key = 'AIzaSyAFuloo5vNWugw9jUSmsP4L3NcXOkFgpKs'
+api_key = 'ADD YOU OWN'
 
 
 def driving(origin,destination):
